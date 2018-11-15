@@ -47,7 +47,7 @@ import static cxf.flume.source.kafka.NewKafkaSourceConstants.*;
 //import static scala.collection.JavaConverters.asJavaListConverter;
 
 /**
- * A Source for Kafka which reads messages from kafka topics.
+ * A Source for Kafka which reads messages from kafka topics     support for kafka 2.0.0.
  *
  * <tt>kafka.bootstrap.servers: </tt> A comma separated list of host:port pairs
  * to use for establishing the initial connection to the Kafka cluster.
